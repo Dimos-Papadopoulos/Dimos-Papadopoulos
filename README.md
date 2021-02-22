@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Dimos Papadopoulos , i am a student at the International Hellenic University . My field of studies is Informatics and CS . I am currently working with Java with a fellow programmer.
 <!--
 **Dimos-Papadopoulos/Dimos-Papadopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
